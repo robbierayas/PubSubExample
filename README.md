@@ -1,0 +1,1 @@
+https://docs.strongloop.com/display/MSG/Building+a+real-time+app+using+socket.io+and+AngularJS#Buildingareal-timeappusingsocket.ioandAngularJS-Publishingupdatesontheserver
